@@ -1,6 +1,4 @@
-# 🖤 persian-siamese-network 🖤
-
-
 ## 🖤 What is Siamese Network?  
 
-🖤 we analyze different articles, codebases, persian handwritten styling 🖤
+🖤 A deep learning architecture designed to compare two inputs by processing them through
+identical neural netwroks and measuring their similarity 🖤
